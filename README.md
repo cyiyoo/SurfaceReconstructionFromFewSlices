@@ -1,3 +1,2 @@
-# Super-Resolution Surface Reconstruction 
-# from Few Low-Resolution Slices
+# Super-Resolution Surface Reconstruction from Few Low-Resolution Slices
 
