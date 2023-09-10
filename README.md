@@ -9,18 +9,15 @@
 
 ## Environment
 MATLAB R2023b®
-
 > macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory
 
 ## Usage
-
-Run 
-```
-DATE20230910_S_N32S5_PWEE.m
-```
+Run `DATE20230910_S_N32S5_PWEE.m` <br>
+with input data `S_N32S5_input.mat` <br>
+and `PWE_Formulation.p`, `Visual3D.p` <br>
+in the same directory. 
 
 ## Visualisation
-
 ### Input
 <img src="/Fig/S_N32S5_1_U0_in.gif" width="30%" height="30%"/>
 
