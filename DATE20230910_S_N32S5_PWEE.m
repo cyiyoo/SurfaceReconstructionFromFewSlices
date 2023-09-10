@@ -6,7 +6,7 @@
 clearvars; clc; close all;
 
 %% DATA INPUT - Sphere
-load('DATE20230910_S_N32S5_PWEE_input.mat');
+load('S_N32S5_input.mat');
 % Initial Input: 
 %   U0 - 32 x 32 x 32
 % Interior Restriction: 
