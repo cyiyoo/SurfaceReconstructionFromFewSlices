@@ -1,11 +1,10 @@
 # Super-Resolution Surface Reconstruction from Few Low-Resolution Slices
 
-  Demo MATLAB Code for AIMS Inverse Problems and Imaging (IPI)
-  Super-Resolution Surface Reconstruction from Few Low-Resolution Slices
-  Yiyao Zhang, Ke Chen, and Shang-Hua Yang
+  Demo MATLAB Code for AIMS Inverse Problems and Imaging (IPI) <br>
+  Super-Resolution Surface Reconstruction from Few Low-Resolution Slices <br>
+  Yiyao Zhang, Ke Chen, and Shang-Hua Yang <br>
   
-> by Yiyao Zhang [Yiyao.Zhang@liverpool.ac.uk; yiyaozhanguk@gmail.com]
-> 
+> by Yiyao Zhang [Yiyao.Zhang@liverpool.ac.uk; yiyaozhanguk@gmail.com] <br>
 > Last Updated on 10/09/2023
 
 ## Environment
