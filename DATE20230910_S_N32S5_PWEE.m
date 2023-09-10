@@ -14,6 +14,10 @@ load('S_N32S5_input.mat');
 % Exterior Restriction: 
 %   U0_ex - 32 x 32 x 32
 
+% Visualisation - Input Slices
+% figure;
+% Visual3D((U0_in+0.000001));
+
 %% Parameters
 N = max(size(U0));
 epsilon = 1.5/N;
