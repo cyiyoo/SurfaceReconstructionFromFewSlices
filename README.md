@@ -1,4 +1,4 @@
-# Super-Resolution Surface Reconstruction from Few Low-Resolution Slices
+# Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
 
   Demo MATLAB Code for AIMS Inverse Problems and Imaging (IPI) <br>
   Super-Resolution Surface Reconstruction from Few Low-Resolution Slices <br>
