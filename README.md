@@ -8,8 +8,7 @@
 > Last Updated on 10/09/2023
 
 ## Environment
-MATLAB R2023b®
-> macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory
+Require MATLAB R2022a and later. 
 
 ## Usage
 Run `DATE20230910_S_N32S5_PWEE.m` <br>
