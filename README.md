@@ -19,3 +19,18 @@ Run
 DATE20230910_S_N32S5_PWEE.m
 ```
  to get the reconstructed results of Figure 10. 
+
+## Visualisation
+
+### Interior Restriction and Initial Input
+![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_1_U0_in.gif)
+![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_2_U0.gif)
+
+### Result by Perimeter Formulation
+![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_3_P.gif)
+
+### Result by Willmore Formulation
+![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_4_W.gif)
+
+### Result by Euler-Elastica Formulation
+![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_5_EE.gif)
