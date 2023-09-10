@@ -23,14 +23,10 @@ DATE20230910_S_N32S5_PWEE.m
 ## Visualisation
 
 ### Input
-<img src="/Fig/S_N32S5_1_U0_in.gif" width="50%" height="50%"/>
+<img src="/Fig/S_N32S5_1_U0_in.gif" width="30%" height="30%"/>
 ![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_1_U0_in.gif | width=100)
 
-### Result by Perimeter Formulation
-![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_3_P.gif | width=100)
-
-### Result by Willmore Formulation
-![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_4_W.gif | width=100)
-
-### Result by Euler-Elastica Formulation
-![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_5_EE.gif | width=100)
+### Result by Perimeter, Willmore, and Euler-Elastica Formulation
+<img src="/Fig/S_N32S5_3_P" width="30%" height="30%"/>
+<img src="/Fig/S_N32S5_4_W" width="30%" height="30%"/>
+<img src="/Fig/S_N32S5_5_EE" width="30%" height="30%"/>
