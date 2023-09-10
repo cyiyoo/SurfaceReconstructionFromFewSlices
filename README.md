@@ -11,9 +11,9 @@ Yiyao Zhang, Ke Chen, and Shang-Hua Yang
 > Last Updated on 10/09/2023
 
 ## Environment
-MATLAB R2023a®
+MATLAB R2023b®
 
-macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory
+> macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory
 
 ## Usage
 
