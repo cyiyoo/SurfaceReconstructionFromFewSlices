@@ -18,7 +18,6 @@ Run
 ```
 DATE20230910_S_N32S5_PWEE.m
 ```
- to get the reconstructed results of Figure 10. 
 
 ## Visualisation
 
