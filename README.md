@@ -14,7 +14,7 @@ MATLAB R2023b®
 ## Usage
 Run `DATE20230910_S_N32S5_PWEE.m` <br>
 with input data `S_N32S5_input.mat` <br>
-and `PWE_Formulation.p`, `Visual3D.p` <br>
+and supplementary functions `PWE_Formulation.p`, `Visual3D.p` <br>
 in the same directory. 
 
 ## Visualisation
