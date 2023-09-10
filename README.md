@@ -14,3 +14,7 @@ Yiyao Zhang, Ke Chen, and Shang-Hua Yang
 MATLAB R2023a®
 
 macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory
+
+## Usage
+
+Run "DATE20230910_S_N32S5_PWEE.m" to get the reconstructed results of Figure 10. 
