@@ -23,6 +23,7 @@ DATE20230910_S_N32S5_PWEE.m
 ## Visualisation
 
 ### Input
+<img src="/Fig/S_N32S5_1_U0_in.gif" width="50%" height="50%"/>
 ![image](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices/blob/main/Fig/S_N32S5_1_U0_in.gif | width=100)
 
 ### Result by Perimeter Formulation
