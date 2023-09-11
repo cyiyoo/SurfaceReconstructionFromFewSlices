@@ -6,7 +6,7 @@
   Demo MATLAB Code for *AIMS Inverse Problems and Imaging (IPI)* <br>
   **Super-Resolution Surface Reconstruction from Few Low-Resolution Slices** <br>
   Yiyao Zhang<sup>1, 2</sup>, Ke Chen<sup>3</sup>, and Shang-Hua Yang<sup>2</sup> <br>
-  <sup>1</sup> Centre for Mathematical Imaging Techniques and Department of Mathematical Sciences,  <be>
+  <sup>1</sup> Centre for Mathematical Imaging Techniques and Department of Mathematical Sciences, <br>
   $\hspace{6pt}$ University of Liverpool, Liverpool, United Kingdom (UK) <br>
   <sup>2</sup> Institute of Electronics Engineering, Department of Electrical Engineering, National Tsing Hua University, Taiwan <br>
   <sup>3</sup> Department of Mathematics and Statistics, University of Strathclyde, Glasgow, UK and Centre for Mathematical Imaging Techniques, University of Liverpool, Liverpool, UK
