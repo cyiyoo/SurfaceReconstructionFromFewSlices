@@ -9,8 +9,10 @@
 
 ## Environment
 Require MATLAB R2022a and later. 
-> Developer [Version 1] MATLAB R2022a macOS Monterey 12.5, 2.3 GHz 8-Core Intel Core i9 Processor, and 16 GB 2667 MHz DDR4 Memory; <br>
-> Developer [Version 2] MATLAB R2023b macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory. <br>
+> Developer [Version 1] <br>
+> MATLAB R2022a macOS Monterey 12.5, 2.3 GHz 8-Core Intel Core i9 Processor, and 16 GB 2667 MHz DDR4 Memory; <br>
+> Developer [Version 2] <br>
+> MATLAB R2023b macOS Ventura 13.5.2, Apple M1 Max Chip, and 64 GB Memory. <br>
 
 ## Usage
 Run `DATE20230910_S_N32S5_PWEE.m` <br>
