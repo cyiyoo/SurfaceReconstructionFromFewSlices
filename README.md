@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/MATLAB-R2022a-BLUE.svg)](https://www.mathworks.com/)
+[![Generic badge](https://img.shields.io/badge/MATLAB-R2022a_or_later-BLUE.svg)](https://www.mathworks.com/)
 [![DOI:TBD](https://zenodo.org/badge/DOI/TBD.svg)]()
 
 # Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
@@ -11,7 +11,7 @@
 > Last Updated on 10/09/2023
 
 ## Environment
-Require MATLAB R2022a and later. 
+Require MATLAB R2022a or later. 
 > Developer [Version 1] <br>
 > MATLAB R2022a, macOS Monterey 12.5, 2.3 GHz 8-Core Intel Core i9 Processor, and 16 GB 2667 MHz DDR4 Memory; <br>
 > Developer [Version 2] <br>
