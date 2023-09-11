@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/MATLAB-R2022a_or_later-BLUE.svg)](https://www.mathworks.com/)
+[![Generic badge](https://img.shields.io/badge/MATLAB-R2022a_or_later-orange.svg)](https://www.mathworks.com/)
 [![DOI:TBD](https://zenodo.org/badge/DOI/TBD.svg)]()
 
 # Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
