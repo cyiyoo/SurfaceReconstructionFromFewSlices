@@ -1,5 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2022a_or_later-orange.svg)](https://www.mathworks.com/)
-[![DOI:TBD](https://zenodo.org/badge/DOI/TBD.svg)]()
+[![DOI:TBD](https://zenodo.org/badge/DOI/arXiv:2309.05071.svg)](https://arxiv.org/abs/2309.05071)
 
 # Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
 
@@ -12,9 +12,11 @@
   > <sup>3</sup> Department of Mathematics and Statistics, University of Strathclyde, Glasgow, UK <br>
   > <sup>4</sup> Centre for Mathematical Imaging Techniques, University of Liverpool, Liverpool, UK <br>
   > <sup>5</sup> Department of Electrical Engineering, National Tsing Hua University, Taiwan
+
+  [arXiv:2309.05071](https://arxiv.org/abs/2309.05071)
   
-> by Yiyao Zhang [Yiyao.Zhang@liverpool.ac.uk; yiyaozhanguk@gmail.com] <br>
-> Last Updated on 10/09/2023
+  > by Yiyao Zhang [Yiyao.Zhang@liverpool.ac.uk; yiyaozhanguk@gmail.com] <br>
+  > Last Updated on 10/09/2023
 
 ## Environment
 Require MATLAB R2022a or later. 
