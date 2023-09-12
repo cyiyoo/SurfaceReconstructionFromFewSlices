@@ -3,6 +3,8 @@
 
 # Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
 
+  Paper: [arXiv:2309.05071](https://arxiv.org/abs/2309.05071)
+  
   Demo MATLAB Code for *AIMS Inverse Problems and Imaging (IPI)* <br>
   **Super-Resolution Surface Reconstruction from Few Low-Resolution Slices** <br>
   Yiyao Zhang<sup>1,2</sup>, Ke Chen<sup>3,4</sup>, and Shang-Hua Yang<sup>2,5</sup> <be>
@@ -13,8 +15,6 @@
   > <sup>4</sup> Centre for Mathematical Imaging Techniques, University of Liverpool, Liverpool, UK <br>
   > <sup>5</sup> Department of Electrical Engineering, National Tsing Hua University, Taiwan
 
-  [arXiv:2309.05071](https://arxiv.org/abs/2309.05071)
-  
   > by Yiyao Zhang [Yiyao.Zhang@liverpool.ac.uk; yiyaozhanguk@gmail.com] <br>
   > Last Updated on 10/09/2023
 
