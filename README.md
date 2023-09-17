@@ -1,9 +1,10 @@
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2022a_or_later-orange.svg)](https://www.mathworks.com/)
+[![DOI:IPI](https://zenodo.org/badge/DOI/IPI.svg)](https://doi.org/10.3934/ipi.2023040)
 [![DOI:arXiv:2309.05071](https://zenodo.org/badge/DOI/arXiv:2309.05071.svg)](https://arxiv.org/abs/2309.05071)
 
 # Super-Resolution Surface Reconstruction <br> from Few Low-Resolution Slices
 
-  Paper: [arXiv:2309.05071](https://arxiv.org/abs/2309.05071)
+  Paper: [IPI](https://doi.org/10.3934/ipi.2023040); [arXiv:2309.05071](https://arxiv.org/abs/2309.05071)
   
   Demo MATLAB Code for *AIMS Inverse Problems and Imaging (IPI)* <br>
   **Super-Resolution Surface Reconstruction from Few Low-Resolution Slices** <br>
